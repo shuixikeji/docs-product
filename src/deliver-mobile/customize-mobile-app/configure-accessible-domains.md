@@ -102,5 +102,5 @@ Check the relevant Cordova ([Domain Whitelist Guide](<https://cordova.apache.org
             "allows-local-networking": "<true_or_false>"
         }
     ]
-}
+}1
 ```
